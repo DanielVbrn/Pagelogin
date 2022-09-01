@@ -1,2 +1,2 @@
 # Pages_web
-projetos do front
+projetos de front-end web development
