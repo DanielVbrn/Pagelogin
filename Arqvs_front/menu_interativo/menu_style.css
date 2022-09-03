@@ -9,6 +9,11 @@ body{
     background-image: url("img_menu.jpg");
     
 }
+
+#Mn_interactive{
+    width: 0%;
+}
+
 .content button{
     background-color: rgb(0, 255, 251);
     cursor: pointer;

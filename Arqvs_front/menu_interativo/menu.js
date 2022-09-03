@@ -1,17 +1,9 @@
 function openMenu(){
     let click = document.getElementById("Mn_interactive").style.width = "20%" 
-   
-    let clique = click.value
-    
-    if(clique == addEventListener("click", openMenu)){
-    }
-    
-    
-    
-}
-function chamar_funct(){
 
+    
 }
+
 
 function closeMenu(){
     document.getElementById("Mn_interactive").style.width = "0%"
