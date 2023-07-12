@@ -1,0 +1,30 @@
+* {
+    text-decoration: none;
+    color: rgb(255,255,255);    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+/* Página principal */
+
+
+
+.navbar {
+    border-radius: 10px;
+    background-color:blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar .content-top-left {
+    display: flex;
+
+}
+
+.navbar li {
+    list-style-type: none;
+    font-size: 20px;
+    padding: 20px;
+}
+

@@ -23,10 +23,10 @@ function logar(){
     }
     if(V_usuario == "DanielVbrn"){
         alert("Login realizado com sucesso!")
-        window.location.href ="https://github.com/DanielVbrn?tab=repositories"
+        window.location.href ="./home"
         return
     }
 }
 
-
 document.getElementById("Logar").addEventListener("click",logar);
+
